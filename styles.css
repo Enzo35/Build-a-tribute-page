@@ -1,0 +1,32 @@
+body {
+    background-color: #47817F;
+  }
+  
+  #tribute-info {
+    background-color: #BFFCF9;
+    border: 2px solid black;
+  }
+  
+  img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    display: block;
+    margin: 0 auto 0 auto;
+  }
+  
+  h1, h2, p, ul {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  hr {
+    border-top: 1px solid black;
+  }
+  
+  a:hover {
+    color: black;
+  }
